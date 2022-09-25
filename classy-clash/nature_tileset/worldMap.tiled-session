@@ -1,0 +1,40 @@
+{
+    "activeFile": "worldMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Nature RPG Tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "RPG Nature Tileset Autumn.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "RPG Nature Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "worldMap.tmx": {
+            "scale": 1.1182291666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 342.05868653935727,
+                "y": 384.53656264555195
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/johnr/Downloads",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "worldMap.tmx",
+        "RPG Nature Tileset Autumn.tsx"
+    ],
+    "project": "worldMap.tiled-project",
+    "recentFiles": [
+        "RPG Nature Tileset Autumn.tsx",
+        "worldMap.tmx",
+        "RPG Nature Tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
